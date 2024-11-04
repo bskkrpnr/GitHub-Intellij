@@ -1,6 +1,6 @@
 package homework;
 
-public class hmwrk4 {
+public class Q4 {
     public static void main(String[] args) {
         int [][] numbers={
                 {10,20,30,45,55},

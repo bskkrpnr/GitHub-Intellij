@@ -1,6 +1,6 @@
 package homework;
 
-public class hmwrk1 {
+public class Q1 {
     public static void main(String[] args) {
         int[] temperatures = {52, 45, 82, 67, 90, 31, 71};
         int highestTemp = temperatures[0];
